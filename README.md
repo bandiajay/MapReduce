@@ -4,7 +4,7 @@
 
 1. Download the .Zip File (Click on Code Tab and select Download Zip)
 2. Extract the .Zip file and copy the MapReduceDemo folder to the Eclipse-workspace (You can find Eclipse-workspace in C:\Users\<Your SID>\)
-3. Open the MapReduceDemo folder  by  selecting Open projects from FileSystem in Eclipse
+3. Open the MapReduceDemo folder  by  selecting Open projects from FileSystem in Eclipse (if your System doesn't have Eclipse follow the steps in Eclipse Installation)
 4. Change the program arguments by following below steps <br>
     3.1 Right click on project  select properties <br>
     3.2 Select run/Debug settings and  select ViewCount click edit . if you don't find ViewCount click on New select java Application give name as ViewCount in main class search for  "ViewCount-mapreducedemo" click on ok  <br>
@@ -14,3 +14,10 @@
 6. Run the viewcount.java file to get desired output
 7. To check for output go to data folder inside project an output folder will be generated after successfully executing program 
 8. Open part-r-00000 file inside output folder in your project where the output of the program is stored.
+
+
+# Steps for Eclipse Installation
+1.Eclipse: https://www.eclipse.org/ <br>
+2.Download and install the latest version of Eclipse installer. <br>
+3.Get the Installer for your platform (student/faculty laptops are windows-x64). <br>
+4.Install Eclipse IDE for Enterprise Java and Web Developers from the installer menu. <br>
