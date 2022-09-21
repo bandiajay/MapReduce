@@ -22,3 +22,10 @@
 2.Download and install the latest version of Eclipse installer. <br>
 3.Get the Installer for your platform (student/faculty laptops are windows-x64). <br>
 4.Install Eclipse IDE for Enterprise Java and Web Developers from the installer menu. <br>
+
+#SSteps to add winutils.exe
+Download winutils.exe and Hadoop.dll from https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin
+Create a folder hadoop  in windows C in that create bin folder and place winutils.exe file and Hadoop.dll in bin folder
+Create a new system variable give name as Hadoop_Home and give variable value as C:\hadoop and click ok
+Click on path in system variables and click on edit option the click on new and give C:\hadoop the click ok
+Now close Exlipse IDE once and open and run ViewCount.java
