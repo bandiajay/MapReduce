@@ -9,10 +9,8 @@
     3.1) Right click on the project select Properties <br>
     3.2) Select Run/Debug settings  in the "Properties for MapReduceDemo" window, and click "New" button. Then, select Java Application, click OK. Give name as "ViewCount". Under the 'Main' tab, and in the "Main class:" search for "ViewCount-mapreducedemo", select it and click OK.  <br>
     3.3 Select the ViewCount and click on 'Edit' button <br>
-    3.4 Select the "Arguments" tab, and in the Program Arguments give path for input file and output file as 
-    C:\Users\S546833\eclipse-workspace\MapReduceDemo\data\input\rawViews.txt                    
-    C:\Users\S546833\eclipse-workspace\MapReduceDemo\data\output 
-    (This is sample path of my input and output folder . Replace  C:\Users\S546833\eclipse-workspace\MapReduceDemo\ with your local directory path in above given path.
+    3.4 Select the "Arguments" tab, and in the Program Arguments give path for input file and output file as <br>
+    C:\Users\S546833\eclipse-workspace\MapReduceDemo\data\input\rawViews.txt C:\Users\S546833\eclipse-workspace\MapReduceDemo\data\output <br>
 5. Delete the output Folder from the MapReduceDemo folder (Location: C:\Users\<Your SID>\eclipse-workspace\MapReduceDemo\data)
 6. Run the viewcount.java file to get desired output
 7. To check for output go to data folder inside project an output folder will be generated after successfully executing program 
