@@ -4,7 +4,7 @@
 
 1. Download the .Zip File
 2. Extract the .Zip file and copy the MapReduceDemo folder to the Eclipse-workspace 
-3. Open the code in Eclipse by  selecting Open projects from FileSystem
+3. Open the code  by  selecting Open projects from FileSystem in Eclipse
 4. Change the program arguments by following below steps <br>
     3.1 Right click on project  select properties <br>
     3.2 Select run/Debug properties and  select ViewCount click edit . if you don't find ViewCount click on New select java Application give name as ViewCount in main class search for  "ViewCount-mapreducedemo" click on ok  <br>
