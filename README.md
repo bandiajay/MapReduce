@@ -2,7 +2,7 @@
 
 # Steps for MapReduce Program Execution
 
-1. Download the .Zip File (Click on Code Tab and select Download Zip)
+1. Download the MapReduceDemo.zip file. To download, click on code button and select 'Download ZIP'
 2. Extract the .Zip file and copy the MapReduceDemo folder to the Eclipse-workspace (You can find Eclipse-workspace in C:\Users\<Your SID>\)(if your System doesn't have Eclipse IDE follow the steps for Eclipse Installation given below)
 3. Open the MapReduceDemo folder  by  selecting Open projects from FileSystem in Eclipse IDE
 4. Change the program arguments by following below steps <br>
