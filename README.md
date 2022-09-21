@@ -25,7 +25,7 @@
 
 # Steps to add winutils.exe
 Download winutils.exe and Hadoop.dll from https://github.com/steveloughran/winutils/tree/master/hadoop-2.7.1/bin <br>
-Create a folder hadoop  in windows C in that create bin folder and place winutils.exe file and Hadoop.dll in bin folder <br>
-Create a new system variable give name as Hadoop_Home and give variable value as C:\hadoop and click ok <br>
-Click on path in system variables and click on edit option the click on new and give C:\hadoop the click ok <br>
-Now close Exlipse IDE once and open and run ViewCount.java
+1. Create a folder hadoop  in windows C in that create bin folder and place winutils.exe file and Hadoop.dll in bin folder <br>
+2. Create a new system variable give name as Hadoop_Home and give variable value as C:\hadoop and click ok <br>
+3. Click on path in system variables and click on edit option the click on new and give C:\hadoop the click ok <br>
+4. Now close Exlipse IDE once and open and run ViewCount.java
