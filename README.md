@@ -6,10 +6,10 @@
 2. Extract the MapReduceDemo.zip file and copy the MapReduceDemo folder to the Eclipse-workspace (You can find Eclipse-workspace in C:\Users\<Your SID>\)(if your system doesn't have Eclipse IDE follow the steps for Eclipse Installation given below)
 3. In the Eclipse, File->Open Projects from File System.... Then, click on "Directory" in "Import Projects from File System or Archive" window, then browse the project folder from Eclipse workspace. 
 4. Change the program arguments by following below steps <br>
-    3.1) Right click on the project select Properties <br>
-    3.2) Select Run/Debug settings  in the "Properties for MapReduceDemo" window, and click "New" button. Then, select Java Application, click OK. Give name as "ViewCount". Under the 'Main' tab, and in the "Main class:" search for "ViewCount-mapreducedemo", select it and click OK.  <br>
-    3.3 Select the ViewCount and click on 'Edit' button <br>
-    3.4 Select the "Arguments" tab, and in the Program Arguments give path for input file and output file as <br>
+    4.1) Right click on the project select Properties <br>
+    4.2) Select Run/Debug settings  in the "Properties for MapReduceDemo" window, and click "New" button. Then, select Java Application, click OK. Give name as "ViewCount". Under the 'Main' tab, and in the "Main class:" search for "ViewCount-mapreducedemo", select it and click OK.  <br>
+    4.3 Select the ViewCount and click on 'Edit' button <br>
+    4.4 Select the "Arguments" tab, and in the Program Arguments give path for input file and output file as <br>
     C:\Users\YourS-ID\eclipse-workspace\MapReduceDemo\data\input\rawViews.txt C:\Users\YourS-ID\eclipse-workspace\MapReduceDemo\data\output and Click Ok.<br> 
 5. Delete the output Folder from the MapReduceDemo folder (Location: C:\Users\<Your SID>\eclipse-workspace\MapReduceDemo\data)
 6. Run the ViewCount.java file to get desired output
